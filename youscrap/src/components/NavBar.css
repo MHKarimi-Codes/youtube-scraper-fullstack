@@ -1,0 +1,31 @@
+.NavBar {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 5%;
+    background-color: #AF2A1E;
+    border-radius: 10px;
+    box-shadow: 2px 3px #A01C11;
+    
+}
+
+.logo {
+    width: 50px;
+    cursor: pointer;
+    margin: 0px;
+    padding: 0px;
+}
+
+.light-mood {
+    width: 50px;
+    cursor: pointer;
+}
+
+h2 {
+    cursor: pointer;
+    color: #FFFFFF;
+}
